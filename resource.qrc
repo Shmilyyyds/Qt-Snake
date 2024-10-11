@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Snake/resource/666.jpg</file>
+        <file>../Snake/resource/down.png</file>
+        <file>../Snake/resource/left.png</file>
+        <file>../Snake/resource/right.png</file>
+        <file>../Snake/resource/startGame.jpg</file>
+        <file>../Snake/resource/up.png</file>
+        <file>../Snake/resource/select.png</file>
+        <file>../Snake/resource/snakeTail.png</file>
+        <file>../Snake/resource/wall.png</file>
+        <file>../Snake/resource/china.png</file>
+        <file>../Snake/resource/background.png</file>
+        <file>../Snake/resource/right_area.png</file>
+        <file>../Snake/resource/score.jpg</file>
+        <file>../Snake/resource/gameover.jpg</file>
+        <file>../Snake/resource/snow.jpg</file>
+        <file>../Snake/resource/dialoge.jpg</file>
+    </qresource>
+</RCC>
